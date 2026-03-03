@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tancata.github.io/site/sitemap.xml
+Sitemap: https://tancata.github.io/sitemap.xml
