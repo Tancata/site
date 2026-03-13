@@ -29,4 +29,9 @@ profiles:
     content: about_chenxue.md
     image_circular: false # crops the image to make it circular
     more_info: >
+  - align: right 
+    image: KatieW.jpg
+    content: about_katie.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---
